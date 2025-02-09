@@ -1,0 +1,10 @@
+login & signup
+
+https://dashboard.clerk.com/apps/app_2sDlyfxxvclYkRG9kpvtfXoFvtS/instances/ins_2sDlyfG90wf47fgWs2BMG6XeCNB 
+
+Database
+https://dashboard.convex.dev/t/joydeep-sen/talenthubx/gregarious-grasshopper-791/data?table=comments
+
+Stream
+https://dashboard.getstream.io/app/1362242/chat/overview
+
